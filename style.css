@@ -1,0 +1,85 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #f9fafb;
+    color: #333;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 60px;
+    background: white;
+}
+
+.navbar a {
+    margin: 0 10px;
+    text-decoration: none;
+    color: #333;
+}
+
+.btn {
+    padding: 8px 14px;
+    border-radius: 6px;
+    border: none;
+    background: #111827;
+    color: white;
+}
+
+.hero {
+    display: flex;
+    justify-content: space-between;
+    padding: 60px;
+    align-items: center;
+}
+
+.hero-img {
+    width: 240px;
+    border-radius: 10px;
+}
+
+.section {
+    padding: 60px;
+}
+
+.skills .skill-list span {
+    display: inline-block;
+    background: #e5e7eb;
+    padding: 6px 12px;
+    border-radius: 20px;
+    margin: 6px;
+}
+
+.card, .work-card {
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+
+.work-card {
+    display: flex;
+    gap: 20px;
+}
+
+.work-card img {
+    width: 200px;
+}
+
+.tags span {
+    background: #e0e7ff;
+    padding: 5px 10px;
+    border-radius: 12px;
+    margin-right: 5px;
+}
+
+.contact {
+    text-align: center;
+    padding: 60px;
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    background: white;
+}
