@@ -109,6 +109,29 @@ p {
     line-height: 1.6;
     color: #4b5563;
 }
+.reveal {
+    opacity: 0;
+    transform: translateY(40px);
+    transition: all 0.8s ease;
+}
+
+.reveal.active {
+    opacity: 1;
+    transform: translateY(0);
+}
+.contact p {
+    cursor: pointer;
+    font-weight: 500;
+}
+
+.contact p:hover {
+    color: #2563eb;
+}
+
+.skill-list span,
+.tags span {
+    font-size: 14px;
+}
 
 
 footer {
