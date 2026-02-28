@@ -1,33 +1,34 @@
 # 💼 Malathi Marimuthu – Personal Portfolio
 
-This is my personal portfolio website designed in **Figma** and developed using **HTML, CSS, and JavaScript**.
+This is my personal portfolio website designed in Figma and developed using HTML, CSS, and JavaScript. It showcases my technical skills, projects, and professional experience in both Software Development and HR.
 
 ## ✨ Features
-- Responsive design (mobile, tablet, desktop)
-- Scroll reveal animations
-- Copy-to-clipboard contact details
-- Clean UI inspired by modern design systems
+- Fully responsive design (Mobile, Tablet, Desktop)
+- Smooth scroll-reveal animations
+- Copy-to-clipboard contact functionality
+- Modern and clean UI design
+- Optimized performance and structured layout
 
 ## 🛠️ Technologies Used
 - HTML5
 - CSS3
-- JavaScript
-- Figma
+- JavaScript (Vanilla JS)
+- Figma (UI Design)
 - Git & GitHub
 
-## 📂 Sections
+## 📂 Sections Included
 - About Me
-- Skills
-- Experience (Tech + HR)
+- Technical Skills
+- Professional Experience (Tech + HR)
 - Projects (Frontend, Backend, UI/UX)
 - Contact Information
 
 ## 🌍 Live Demo
-👉 https://yourusername.github.io/malathi-portfolio/
+👉 https://malathi-25.github.io/malathi-portfolio/
 
-## 📸 Design Reference
-Designed using Figma and converted into code manually.
+## 🎨 Design Process
+The UI was first designed in Figma and then manually converted into clean, structured code following best practices.
 
 ---
 
-© 2025 | Designed & coded with ❤️ by Malathi Marimuthu
+© 2025 | Designed & Developed by Malathi Marimuthu
