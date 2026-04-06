@@ -21,7 +21,7 @@ This is my personal portfolio website designed in Figma. It showcases my technic
 - Contact Information
 
 ## 🌍 Live Demo
-👉 
+👉 https://www.figma.com/design/1zFYUzmkKOSbNOs3P5oYXx/Portfolio-Myself?node-id=1-2&t=fkF6pZYvljkNnB0k-0
 
 ## 🎨 Design Process
 The UI was first designed in Figma and then manually converted into clean, structured code following best practices.
